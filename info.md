@@ -1,4 +1,7 @@
 # Instruktioner: Gör sidan snygg med CSS
 
 ## Uppgift
-Du ska förbättra utseendet på webbplatsen genom att endast använda CSS. Du får även lägga till klasser i HTML-filerna för att underlätta styling, men all design ska göras i `styles.css`.
+Du ska förbättra utseendet på webbsidan genom att endast använda CSS och lägga till klasser.
+All styling ska göras i styles.css.
+
+Efter inlämning kommer snyggaste sidan röstas fram i klassen.
